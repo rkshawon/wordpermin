@@ -1,4 +1,5 @@
 .registerContainer{
+    flex: 4;
     background-color: rgba(0, 195, 255, 0.1);
     height: (100vh - 50px);
     width: 100%;
