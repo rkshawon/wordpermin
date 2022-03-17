@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wordpermin/static/css/main.89302c55.css",
+    "main.js": "/wordpermin/static/js/main.5356ff40.js",
+    "static/media/t2.jpg": "/wordpermin/static/media/t2.2b874d022a5a89a50fd9.jpg",
+    "index.html": "/wordpermin/index.html",
+    "main.89302c55.css.map": "/wordpermin/static/css/main.89302c55.css.map",
+    "main.5356ff40.js.map": "/wordpermin/static/js/main.5356ff40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89302c55.css",
+    "static/js/main.5356ff40.js"
+  ]
+}
